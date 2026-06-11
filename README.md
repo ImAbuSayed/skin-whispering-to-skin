@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-whispering-to-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Skin Whispering To Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-whispering-to-skin/) |
+| **Get License** | [Get a Licensing Quote for Skin Whispering To Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-whispering-to-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3039)
 
 ---
 
