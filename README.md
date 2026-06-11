@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-whispering-to-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Skin Whispering To Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-whispering-to-skin/) |
+| **Get License** | [Get a Licensing Quote for Skin Whispering To Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-whispering-to-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight wrapped around your silhouette
+> A slow-burn fire that I can't forget
+> We're trading shadows in the candle's glow
+> Where the world above us wouldn't ever know
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
